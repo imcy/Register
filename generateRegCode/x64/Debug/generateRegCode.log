@@ -1,0 +1,50 @@
+﻿  stdafx.cpp
+  generateRegCodeDlg.cpp
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(95): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(96): error C2065: “mov”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(96): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(96): error C2065: “eax”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(96): error C3688: 文本后缀“h”无效；未找到文文本运算符或文本运算符模板“operator """"h”
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(97): error C2146: 语法错误: 缺少“;”(在标识符“xor”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(97): error C2065: “xor”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(97): error C2146: 语法错误: 缺少“;”(在标识符“edx”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(97): error C2065: “edx”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(99): error C2146: 语法错误: 缺少“;”(在标识符“cpuid”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(98): error C2065: “cpuid”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(99): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(99): error C2065: “mov”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(99): error C2146: 语法错误: 缺少“;”(在标识符“s1”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(99): error C2065: “edx”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(100): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(100): error C2065: “mov”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(100): error C2146: 语法错误: 缺少“;”(在标识符“s2”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(100): error C2065: “eax”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(101): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(104): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(105): error C2065: “mov”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(105): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(105): error C2065: “eax”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(105): error C3688: 文本后缀“h”无效；未找到文文本运算符或文本运算符模板“operator """"h”
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(106): error C2146: 语法错误: 缺少“;”(在标识符“xor”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(106): error C2065: “xor”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(106): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(106): error C2065: “ecx”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(107): error C2146: 语法错误: 缺少“;”(在标识符“xor”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(107): error C2065: “xor”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(107): error C2146: 语法错误: 缺少“;”(在标识符“edx”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(107): error C2065: “edx”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(109): error C2146: 语法错误: 缺少“;”(在标识符“cpuid”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(108): error C2065: “cpuid”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(109): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(109): error C2065: “mov”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(109): error C2146: 语法错误: 缺少“;”(在标识符“s1”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(109): error C2065: “edx”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(110): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(110): error C2065: “mov”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(110): error C2146: 语法错误: 缺少“;”(在标识符“s2”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(110): error C2065: “ecx”: 未声明的标识符
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(111): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+f:\c++\generateregcode\generateregcode\generateregcodedlg.cpp(154): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(343): note: 参见“strncpy”的声明
+  generateRegCode.cpp
+  正在生成代码...

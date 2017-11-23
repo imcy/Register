@@ -1,0 +1,5 @@
+﻿  SelectDlg.cpp
+f:\c++\register\register\selectdlg.cpp(95): warning C4101: “data”: 未引用的局部变量
+f:\c++\register\register\selectdlg.cpp(94): warning C4101: “key”: 未引用的局部变量
+  Register.vcxproj -> F:\c++\Register\Debug\Register.exe
+  Register.vcxproj -> F:\c++\Register\Debug\Register.pdb (Partial PDB)

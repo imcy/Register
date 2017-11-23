@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  generateRegCodeDlg.cpp
+  generateRegCode.cpp
+  正在生成代码...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\sal.h(2866): warning RC4005: '__useHeader' : redefinition
+  
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\sal.h(2876): warning RC4005: '__on_failure' : redefinition
+  
+  generateRegCode.vcxproj -> F:\c++\Register\Debug\generateRegCode.exe
+  generateRegCode.vcxproj -> F:\c++\Register\Debug\generateRegCode.pdb (Partial PDB)
